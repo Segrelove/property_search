@@ -1,0 +1,1 @@
+Welcome to my neat ruby script that can scrap SeLoger's property with a simple google search.
